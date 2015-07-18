@@ -1,0 +1,21 @@
+
+{
+    "name": "sakren/nette-translator",
+	"type": "library",
+	"description": "Translator for Nette framework",
+	"keywords": ["translator", "localization", "i18n", "nette"],
+	"homepage": "https://github.com/Carrooi/Nette-Translator",
+	"license": "MIT",
+	"minimum-stability": "dev",
+	"authors": [
+		{
+			"name": "David Kudera",
+			"email": "kudera.d@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"carrooi/nette-translator": "*"
+	}
+}
+
